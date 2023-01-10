@@ -5,3 +5,8 @@ sambar
 
 
 rice
+
+
+
+dosa
+idli
