@@ -5,3 +5,11 @@ sambar
 
 
 rice
+
+
+
+dosa
+idli
+
+
+brunch = breakfast + lunch
